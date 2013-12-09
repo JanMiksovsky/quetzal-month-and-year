@@ -5,7 +5,8 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "quetzal-element": "JanMiksovsky/quetzal-element#master"
+    "quetzal-element": "JanMiksovsky/quetzal-element#master",
+    "quetzal-month-name": "JanMiksovsky/quetzal-month-name#master"
   },
   "ignore": [
     "**/.*"
